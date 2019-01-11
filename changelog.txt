@@ -14,6 +14,6 @@ Changelog
 - Layer height limits (variable layer height) for 0.25mm nozzle printer variants
   changed from 0.05-0.1mm to 0.05-0.15mm.
 - Removed redundant retraction after initial purge line in MMU1 printer profiles.
-- Filament “Colorfabb XT-CF20” is now available only for printers with nozzle
+- Filament “ColorFabb XT-CF20” is now available only for printers with nozzle
   diameter greater than 0.35mm.
 - Various small changes in the Notes section of filament settings.
